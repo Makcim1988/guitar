@@ -561,35 +561,35 @@ html {
     font-size: 40px; }
 
   .icons-item__img {
-    width: 30px;
+    width: 50px;
     margin-right: 5px; }
   .icons-item__text {
-    font-size: 10px; }
+    font-size: 14px; }
     .icons-item__text span {
-      font-size: 15px; }
+      font-size: 20px; }
 
   .third-section {
-    min-height: 510px; }
+    min-height: 480px; }
     .third-section__right-title {
       font-size: 40px;
       margin-bottom: 10px; }
     .third-section__left-title {
       display: none; }
     .third-section__right-wrapper {
-      max-width: 60px;
+      max-width: 95%;
       z-index: 5; }
     .third-section__container {
       justify-content: flex-start;
-      padding-left: 20px;
+      padding-left: 5px;
       padding-top: 20px; }
 
   .footer__img {
     display: none; }
   .footer__title {
     margin-bottom: 10px;
-    font-size: 60px; }
+    font-size: 40px; }
   .footer__container {
-    max-height: 210px; }
+    min-height: 150px; }
 
   .footer-wrapper {
     max-width: 550px; } }
